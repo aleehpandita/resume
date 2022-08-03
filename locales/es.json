@@ -44,14 +44,35 @@
     "title": "Experiencia Laboral 🔨",
     "works": [
       {
-        "position": "Desarrollador FullStack",
-        "companie": "Transportadora Turistica Feraltar",
+        "position": "Desarrollador FullStack - Freelance",
+        "companie": "Cancun Transfers",
         "responsabilities": [
-          "Lider del equipo web, liderando al equipo en diversos proyectos.",
-          "Desarrollador Backend: PHP | MySQL ",
-          "Desarrollador Frontend: VueJs | ReactJs | Javascript | JQuery."
+          "Responsable del diseño, desarrollo y mantenimiento de páginas web dedicadas a las reservas y pasarela de pagos de servicios de transporte, mantenimiento de un CRM para la gestión de reservas, vehículos, correos para una empresa de transporte turistico en el Aeropuerto de Cancún. ",
+          "Backend: NodeJs | PHP | NodeJs | MySQL ",
+          "Frontend: VueJs con NuxtJS | ReactJs con NextJS | Javascript "
         ],
-        "startEndDate": "Noviembre 2009 - Diciembre 2019"
+        "startEndDate": "Noviembre 2019 - Presente"
+      },
+      {
+        "position": "Desarolladora Web",
+        "companie": "Feraltar - Transportadora del Aeropuerto Internacional de Cancún",
+        "responsabilities": [
+          "Responsable del diseño y mantenimiento de diversos sitios web dedicados a la venta de servicios del Aeropuerto",
+          "Desarrollo Backend: PHP con Laravel ",
+          "Desarrollo Frontend: Javascript",
+          "Mejorando los procesos de la empresa."
+        ],
+        "startEndDate": "Diciembre 2013 - Febrero 2019"
+      },
+      {
+        "position": "Desarrollador de Software - Lider",
+        "companie": "Mochcun",
+        "responsabilities": [
+        "Desarrollo y mantenimiento del CRM de la empresa",
+        "Responsable del mantenimiento de la web",
+        "Líder del equipo web, tomo decisiones técnicas sobre qué tecnologías utilizar en cada proyecto y cómo trabajará el equipo"
+        ],
+        "startEndDate": "Marzo 2019 - Enero 2022"
       },
       {
         "position": "Desarrollador FullStack",
@@ -69,54 +90,60 @@
     "title": "Habilidades 🎯",
     "iconsTitle": "Lenguajes de Programación & Herramientas",
     "devIcons": [
-      "devicon-csharp-plain",
       "devicon-javascript-plain",
+      "devicon-laravel-plain",
+      "devicon-php-plain",
+      "devicon-csharp-plain",
+      "devicon-nodejs-plain",
+      "devicon-ionic-original",
+      "devicon-react-original",
+      "devicon-vuejs-plain",
+      "devicon-nuxtjs-plain",
+      "devicon-nextjs-original",
+      "devicon-git-plain",
+      "devicon-mysql-plain",
+      "devicon-npm-original-wordmark",
+      "devicon-yarn-plain",
       "devicon-html5-plain-wordmark",
       "devicon-css3-plain-wordmark",
-      "devicon-git-plain",
-      "devicon-nodejs-plain",
       "devicon-bootstrap-plain",
       "devicon-github-original",
       "devicon-bitbucket-original-wordmark",
       "devicon-wordpress-plain",
-      "devicon-npm-original-wordmark",
-      "devicon-jquery-plain-wordmark",
-      "devicon-yarn-plain",
-      "devicon-linux-plain",
-      "devicon-windows8-original",
-      "devicon-illustrator-plain",
-      "devicon-photoshop-plain",
-      "devicon-react-original",
       "devicon-visualstudio-plain",
       "devicon-vuejs-plain",
-      "devicon-postgresql-plain"
+      "devicon-postgresql-plain",
+      "devicon-jquery-plain-wordmark",
+      "devicon-illustrator-plain",
+      "devicon-photoshop-plain"
     ],
     "workflow": "Workflow",
     "itemList": [
-      "Diseño Responsive",
+      "JS Frameworks",
+      "Patrones de diseño",
+      "Diseño Responsivo",
       "Contrucción de REST API",
       "Desarrollo Ágil & Scrum",
-      "Trabajo en equipo",
-      "Patrones de diseño"
+      "Trabajo en equipo"
     ]
   },
   "interests": {
     "title": "Hobbies 😄",
-    "firstBlock": "Me gusta mucho el Anime, mis favoritos son One Piece 🏴‍☠️ Death Note 📓 Attack on Titan 👁 ",
-    "secondBlock": "Me gusta aprender sobre nuevas tecnologías! 👩🏻‍💻"
+    "firstBlock": "Aparte de ser desarrollador web, disfruto de la mayor parte de mi tiempo escuchando música. Me encanta ver anime y leer en mi tiempo libre! 🎵",
+    "secondBlock": "Dedico gran parte de mi tiempo libre a explorar los últimos avances tecnológicos en el mundo del desarrollo de tecnología web frontend y backend y a codificar en mis proyectos personales 👩🏻‍💻"
   },
   "projects": {
-    "title": "Proyectos Personales 🦾🧠",
+    "title": "Proyectos 🦾🧠",
     "projectsInfo": [
       {
         "name": "Cancun International Airport",
-        "description": "Cancun International Airport es un sitio dedicado al aeropuerto de cancún con la finalidad de vender transportación hacia y desde el aeropuerto de Cancún. Sitio hecho en NuxtJS.",
+        "description": "Sitio dedicado al aeropuerto de Cancún con el propósito de vender transporte desde y hacia el aeropuerto de Cancún. Hecho en NuxtJS",
         "image": "/images/cun.png",
         "siteUrl": "https://cancun-airport.net/new_site"
       },
       {
-        "name": "Panel Cancun Airport",
-        "description": "Plataforma completa dedicada al manejo de reservaciones de transportacion, Manejo de operadores, vehiculos, reservas, hoteles, etc. Sitio hecho en PHP.",
+        "name": "CRM Cancun Airport",
+        "description": "CRM - Plataforma completa dedicada a la gestión de reservas de transporte, gestión de operadores, vehículos, reservas, hoteles, etc. Sitio realizado en PHP.",
         "image": "/images/panel.png",
         "siteUrl": "https://panel.feraltar.com"
       },
@@ -127,22 +154,40 @@
         "siteUrl": "https://anclabeauty.mx"
       },
       {
-        "name": "ES Beautiful Studios",
-        "description": "Sitio hecho con Wordpress.",
+        "name": "Taller Automotriz Cancun",
+        "description": "Sitio hecho en NuxtJS y subido a Heroku.",
         "image": "/images/es.png",
-        "siteUrl": "https://esbeautifulstudios.com"
+        "siteUrl": "https://taller-automotriz-cancun.com/"
       },
       {
-        "name": "Construccion y Mantenimiento IXOYE",
-        "description": "Sitio hecho con NuxtJS.",
+        "name": "Construcción IXOYE",
+        "description": "Sitio hecho en NuxtJS y subido a Vercel.",
         "image": "/images/ixoye.png",
         "siteUrl": "https://construccion-y-mantenimiento.com/"
       },
       {
-        "name": "Sitio Web Feraltar",
-        "description": "Sitio hecho con NuxtJS y utilizando el CMS Strapi",
+        "name": "Handicraft Shop",
+        "description": "Sitio realizado con NextJS + Typescript + TailwindCSS + Vercel.",
+        "image": "/images/handi.png",
+        "siteUrl": "https://handicraftshop.mx/"
+      },
+      {
+        "name": "Cancun Transfers Vip",
+        "description": "Sitio realizado con NextJS + NodeJS + TailwindCSS + Vercel.",
+        "image": "/images/vip.png",
+        "siteUrl": "https://www.cancuntransfers-vip.com/es/"
+      },
+      {
+        "name": "Feraltar Transportation",
+        "description": "Sitio realizado con NuxtJS + CMS Strapi + Heroku",
         "image": "/images/fera.png",
         "siteUrl": "https://cancunairporttransfers.us/"
+      },
+      {
+        "name": "Cabsi Taxi",
+        "description": "CRM hecho en Laravel",
+        "image": "/images/taxi.png",
+        "siteUrl": "https://cabsi.feraltar.com/"
       }
     ]
   }

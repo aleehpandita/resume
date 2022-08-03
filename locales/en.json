@@ -44,27 +44,36 @@
     "title": "Work Expecience 🔨",
     "works": [
       {
-        "position": "Software Engineer / FullStack Developer",
-        "companie": "Axum - Smart Solutions",
+        "position": "Software Engineer / FullStack Developer (Freelance)",
+        "companie": "Cancun Transfers",
         "responsabilities": [
-          "Responsible for designing, developing and maintaining a group of applications used in the retail industry by multinational companies as Pepsico, Unilever, Quilmes, etc.",
-          "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
-          "Backend Developer: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Frontend Developer: VueJs | ReactJs | Javascript | JQuery.",
-          "Desktop Applications: .NET Windows Form Applications."
+          "Responsible for designing, developing and maintaining web pages dedicated to reservations and payments of transportation services, maintenance of a CRM to manage bookings, vehicles, mails for a transportation company at the cancun airport. ",
+          "Backend Developer: NodeJs | PHP | NodeJs | MySQL ",
+          "Frontend Developer: VueJs with NuxtJS | ReactJs with NextJS | Javascript "
         ],
-        "startEndDate": "November 2017 - Present"
+        "startEndDate": "November 2019 - Present"
       },
       {
-        "position": "Technical Administrator",
-        "companie": "Metalurgica Vezeta",
+        "position": "Web Developer | Software Engineer",
+        "companie": "Cancun Airport Transportation",
         "responsabilities": [
-          "Responsible for web ecommerce designing and maintaining.",
-          "Graphic design (Adobe Photoshop and Adobe Illustrator).",
-          "Technical support.",
+          "Responsible for web ecommerce designing and maintaining",
+          "Backend Developer: PHP with Laravel ",
+          "Frontend Developer: Javascript",
           "Improve business processes."
         ],
-        "startEndDate": "March 2014 - October 2017"
+        "startEndDate": "December 2013 - February 2019"
+      },
+      {
+        "position": "Software Engineer Leader",
+        "companie": "Mochcun",
+        "responsabilities": [
+          "Development and Maintenance of the company's CRM",
+          "Responsible for web maintaining.",
+          "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
+          "Improve business processes."
+        ],
+        "startEndDate": "March 2019 - January 2022"
       }
     ]
   },
@@ -72,82 +81,106 @@
     "title": "Skills 🎯",
     "iconsTitle": "Programming Languages & Tools",
     "devIcons": [
-      "devicon-csharp-plain",
       "devicon-javascript-plain",
+      "devicon-laravel-plain",
+      "devicon-php-plain",
+      "devicon-csharp-plain",
+      "devicon-nodejs-plain",
+      "devicon-ionic-original",
+      "devicon-react-original",
+      "devicon-vuejs-plain",
+      "devicon-nuxtjs-plain",
+      "devicon-nextjs-original",
+      "devicon-git-plain",
+      "devicon-mysql-plain",
+      "devicon-npm-original-wordmark",
+      "devicon-yarn-plain",
       "devicon-html5-plain-wordmark",
       "devicon-css3-plain-wordmark",
-      "devicon-git-plain",
-      "devicon-nodejs-plain",
       "devicon-bootstrap-plain",
       "devicon-github-original",
       "devicon-bitbucket-original-wordmark",
       "devicon-wordpress-plain",
-      "devicon-npm-original-wordmark",
-      "devicon-jquery-plain-wordmark",
-      "devicon-yarn-plain",
-      "devicon-linux-plain",
-      "devicon-windows8-original",
-      "devicon-illustrator-plain",
-      "devicon-photoshop-plain",
-      "devicon-react-original",
       "devicon-visualstudio-plain",
       "devicon-vuejs-plain",
-      "devicon-postgresql-plain"
+      "devicon-postgresql-plain",
+      "devicon-jquery-plain-wordmark",
+      "devicon-illustrator-plain",
+      "devicon-photoshop-plain"
     ],
     "workflow": "Workflow",
     "itemList": [
-      "Responsive Design & UX",
-      "Cross Browser Testing & Debugging",
+      "JS Frameworks",
       "REST API building",
+      "Package Managers",
+      "CSS Preprocessors",
       "Agile Development & Scrum",
       "Team working",
       "Design Patterns"
     ]
   },
-  "interests": {
-    "title": "Hobbies 😄",
-    "firstBlock": "Apart from being a web developer, I enjoy most of my time listening and playing music. I love playing piano and singing in my spare time!. 🎹🎵",
-    "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
-  },
   "projects": {
-    "title": "Personal Projects 🦾🧠",
+    "title": "Projects 🦾🧠",
     "projectsInfo": [
       {
         "name": "Cancun International Airport",
-        "description": "Cancun International Airport es un sitio dedicado al aeropuerto de cancún con la finalidad de vender transportación hacia y desde el aeropuerto de Cancún. Sitio hecho en NuxtJS.",
+        "description": "Cancun International Airport is a site dedicated to Cancun airport with the purpose of selling transportation to and from Cancun airport. Site made in NuxtJS",
         "image": "/images/cun.png",
         "siteUrl": "https://cancun-airport.net/new_site"
       },
       {
-        "name": "Panel Cancun Airport",
-        "description": "Plataforma completa dedicada al manejo de reservaciones de transportacion, Manejo de operadores, vehiculos, reservas, hoteles, etc. Sitio hecho en PHP.",
+        "name": "CRM Cancun Airport",
+        "description": "CRM - Complete platform dedicated to the management of transportation reservations, Operator management, vehicles, reservations, hotels, etc. Site made in PHP.",
         "image": "/images/panel.png",
         "siteUrl": "https://panel.feraltar.com"
       },
       {
         "name": "Ancla Beauty",
-        "description": "Sitio hecho con Wordpress.",
+        "description": "Site made in Wordpress.",
         "image": "/images/ancla.png",
         "siteUrl": "https://anclabeauty.mx"
       },
       {
-        "name": "ES Beautiful Studios",
-        "description": "Sitio hecho con Wordpress.",
+        "name": "Car Repair Cancun",
+        "description": "Site made in NuxtJS and Deploy in Heroku.",
         "image": "/images/es.png",
-        "siteUrl": "https://esbeautifulstudios.com"
+        "siteUrl": "https://taller-automotriz-cancun.com/"
       },
       {
-        "name": "Construccion y Mantenimiento IXOYE",
-        "description": "Sitio hecho con NuxtJS.",
+        "name": "Home construction and Maintenance IXOYE",
+        "description": "Site made in NuxtJS and Deploy in Vercel.",
         "image": "/images/ixoye.png",
         "siteUrl": "https://construccion-y-mantenimiento.com/"
       },
       {
         "name": "Handicraft Shop",
-        "description": "Sitio hecho con NextJS + Typescript.",
+        "description": "Site made in NextJS + Typescript + TailwindCSS + Deploy in Vercel.",
         "image": "/images/handi.png",
         "siteUrl": "https://handicraftshop.mx/"
+      },
+      {
+        "name": "Cancun Transfers Vip",
+        "description": "Site made in NextJS + NodeJS + TailwindCSS + Deploy in Vercel.",
+        "image": "/images/vip.png",
+        "siteUrl": "https://www.cancuntransfers-vip.com/es/"
+      },
+      {
+        "name": "Feraltar Transportation",
+        "description": "Site made in NuxtJS + CMS Strapi + Deploy in Heroku",
+        "image": "/images/fera.png",
+        "siteUrl": "https://cancunairporttransfers.us/"
+      },
+      {
+        "name": "Cabsi Taxi",
+        "description": "CRM made in Laravel",
+        "image": "/images/taxi.png",
+        "siteUrl": "https://cabsi.feraltar.com/"
       }
     ]
+  },
+  "interests": {
+    "title": "Hobbies 😄",
+    "firstBlock": "Apart from being a web developer, I enjoy most of my time listening music. I love watch anime and read in my spare time! 🎵",
+    "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 👩🏻‍💻 "
   }
 }

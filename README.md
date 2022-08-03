@@ -3,7 +3,7 @@
 
 ![locates](./documentation/ResumeLogo.png)
 
-This resume is thanks to Ivan Greve, He **build** this template to create you own personal web resume! 💪
+This resume is thanks to Ivan Greve, He **builds** this template to create you own personal web resume! 💪
 ### [Check his Demo 💾](https://ivangreve.com/)
 
 ## Pre-Requisites 
