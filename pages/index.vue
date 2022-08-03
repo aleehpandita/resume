@@ -112,7 +112,7 @@ export default {
   },
   head() {
     return {
-      title: "FullStack Developer || Alejandra L Altamirano"
+      title: "FullStack Developer | Alejandra L Altamirano"
     };
   },
   methods: {
