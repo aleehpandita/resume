@@ -8,40 +8,35 @@
     "projects": "Projects"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Alejandra L ",
+    "lastName": "Altamirano",
     "subHeadingText": [
       "Software Enginneer",
       "Full Stack Developer",
       "Code enthusiast!"
     ],
-    "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
+    "city": "Cancún, México",
+    "phoneNumber": "+52 9982 42 43 94",
+    "email": "alejandra.altamirano19@gmail.com",
+    "website": "aleehpandita.dev",
+    "linkedin": "https://www.linkedin.com/in/aleehpandita/",
+    "github": "https://github.com/aleehpandita/",
     "myDescription": "Passionate web developer, making useful application using the latest technologies!"
   },
   "educationDegrees": {
     "title": "Education 📕",
     "degrees": [
       {
-        "collage": "University of La Matanza",
-        "name": "Engineer Degree",
-        "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2018"
+        "collage": "Universidad Politécnica de Quintana Roo",
+        "name": "Software Engineer",
+        "itemList": ["Software Developer", "Mobile and Web Application Developer"],
+        "startEndDate": "March 2013 - December 2017"
       },
       {
-        "collage": "University of La Matanza",
-        "name": "Software Engineering Technician",
-        "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2016"
-      },
-      {
-        "collage": "Instituto Madero",
-        "name": "Electronic technician",
-        "itemList": ["Electronic"],
-        "startEndDate": "March 2007 - December 2012"
+        "collage": "Platzi",
+        "name": "Frontend and Backend Developer",
+        "itemList": ["Frontend Developer: ReactJS, React Hooks, Vuejs, NextJS, NuxtJS Backend Developer: PHP Advanced, API REST, Laravel, NodeJS"],
+        "startEndDate": "January 2021 - December 2021"
       }
     ]
   },
@@ -86,15 +81,16 @@
       "devicon-bootstrap-plain",
       "devicon-github-original",
       "devicon-bitbucket-original-wordmark",
-      "devicon-dot-net-original-wordmark",
+      "devicon-wordpress-plain",
+      "devicon-npm-original-wordmark",
       "devicon-jquery-plain-wordmark",
+      "devicon-yarn-plain",
       "devicon-linux-plain",
       "devicon-windows8-original",
       "devicon-illustrator-plain",
       "devicon-photoshop-plain",
       "devicon-react-original",
       "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
       "devicon-vuejs-plain",
       "devicon-postgresql-plain"
     ],
@@ -117,28 +113,40 @@
     "title": "Personal Projects 🦾🧠",
     "projectsInfo": [
       {
-        "name": "Kelawar",
-        "description": "Kelawar is a Big Data + IoT project. Which through masive recollections of data, we provide useful information about the clients behavior. ",
-        "image": "/images/kelawar.jpg",
-        "siteUrl": "https://kelawar.com/"
+        "name": "Cancun International Airport",
+        "description": "Cancun International Airport es un sitio dedicado al aeropuerto de cancún con la finalidad de vender transportación hacia y desde el aeropuerto de Cancún. Sitio hecho en NuxtJS.",
+        "image": "/images/cun.png",
+        "siteUrl": "https://cancun-airport.net/new_site"
       },
       {
-        "name": "Docuisy",
-        "description": "Docuisy is a Wiki, generator based on .md files",
-        "image": "/images/docuisy.png",
-        "siteUrl": "https://github.com/ivangreve/docuisy"
+        "name": "Panel Cancun Airport",
+        "description": "Plataforma completa dedicada al manejo de reservaciones de transportacion, Manejo de operadores, vehiculos, reservas, hoteles, etc. Sitio hecho en PHP.",
+        "image": "/images/panel.png",
+        "siteUrl": "https://panel.feraltar.com"
       },
       {
-        "name": "Better Drive",
-        "description": "Better Drive is a free tool to analyze your Google Drive account. Google Drive is a powerful file storage and synchronization service, but sometimes you feel like you lose control of it. Keeping privacy concerns in mind, that many users have, we built this great tool to help you organize, clean, and leverage the use of your Google Drive.",
-        "image": "/images/better-drive.png",
-        "siteUrl": "https://betterdrive.app/"
+        "name": "Ancla Beauty",
+        "description": "Sitio hecho con Wordpress.",
+        "image": "/images/ancla.png",
+        "siteUrl": "https://anclabeauty.mx"
       },
       {
-        "name": "Resume Nuxt Template",
-        "description": "I made a simple and customizable template with nuxt and multilanguage support (i18n)",
-        "image": "/images/resumenuxt.jpg",
-        "siteUrl": "https://github.com/ivangreve/nuxt-resume"
+        "name": "ES Beautiful Studios",
+        "description": "Sitio hecho con Wordpress.",
+        "image": "/images/es.png",
+        "siteUrl": "https://esbeautifulstudios.com"
+      },
+      {
+        "name": "Construccion y Mantenimiento IXOYE",
+        "description": "Sitio hecho con NuxtJS.",
+        "image": "/images/ixoye.png",
+        "siteUrl": "https://construccion-y-mantenimiento.com/"
+      },
+      {
+        "name": "Handicraft Shop",
+        "description": "Sitio hecho con NextJS + Typescript.",
+        "image": "/images/handi.png",
+        "siteUrl": "https://handicraftshop.mx/"
       }
     ]
   }

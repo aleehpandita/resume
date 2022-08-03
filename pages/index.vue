@@ -5,10 +5,10 @@
       id="sideNav"
     >
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Resume Iván</span>
+        <span class="d-block d-lg-none">Alejandra</span>
         <span class="d-none d-lg-block">
           <img
-            class="img-fluid img-profile rounded-circle mx-auto mb-2"
+            class="img-fluid img-profile rounded-circle mb-2"
             src="/profile.jpg"
             alt=""
           />
@@ -112,7 +112,7 @@ export default {
   },
   head() {
     return {
-      title: "Iván Greve"
+      title: "FullStack Developer || Alejandra L Altamirano"
     };
   },
   methods: {

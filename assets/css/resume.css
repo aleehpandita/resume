@@ -115,9 +115,9 @@ body {
   }
   
   @media (min-width: 768px) {
-    section.resume-section {
+    /* section.resume-section {
       min-height: 100vh;
-    }
+    } */
     section.resume-section .resume-item .resume-date {
       min-width: 18rem;
     }
@@ -158,9 +158,9 @@ body {
 
   :root {
     --color: #868e96;
-    --color-primary: #478547;
-    --color-secondary: #3b833b;
-    --color-primary-hover: #276827;
+    --color-primary: #6D256F;
+    --color-secondary: #6D256F;
+    --color-primary-hover: #6D256F;
     --color-text-primary: #343a40;
     --color-text-secondary: #e2e2e2; 
     --color-text-third: #343a40;

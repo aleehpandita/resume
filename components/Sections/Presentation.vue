@@ -23,7 +23,8 @@
 
     <div class="subheading mb-5">
       {{ $t('personalInfo.city') }} · {{ $t('personalInfo.phoneNumber') }} ·
-      <a href="mailto:name@email.com">{{ $t('personalInfo.email') }}</a>
+      <a href="mailto:alejandra.altamirano19@gmail.com">{{ $t('personalInfo.email') }}</a> · 
+      <a href="aleehpandita.dev">{{ $t('personalInfo.website') }}</a> 
     </div>
     <p class="mb-5">
       {{ $t('personalInfo.myDescription') }}

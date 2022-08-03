@@ -35,7 +35,7 @@ export default {
       }
     ],
     link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      { rel: "icon", type: "image/x-icon", href: "/girl.png" },
       {
         rel: "stylesheet",
         type: "text/css",
@@ -58,7 +58,7 @@ export default {
         rel: "stylesheet",
         type: "text/css",
         href:
-          "https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"
+          "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"
       },
       {
         rel: "stylesheet",
